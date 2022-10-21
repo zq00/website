@@ -46,4 +46,4 @@ I am passionate about data science education, and I am particularly interested i
 
 In my free time, I enjoy reading, hiking and baking. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/CV-Qian.pdf" "newtab" >}}CV{{< /staticref >}}.
