@@ -16,6 +16,6 @@ publication_types:
 
 title: "The asymptotic distribution of the MLE in high-dimensional logistic models: Arbitrary covariance"
 url_code: https://github.com/zq00/logisticMLE
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://projecteuclid.org/journals/bernoulli/volume-28/issue-3/The-asymptotic-distribution-of-the-MLE-in-high-dimensional-logistic/10.3150/21-BEJ1401.full
 ---
 
