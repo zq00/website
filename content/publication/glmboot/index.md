@@ -5,9 +5,6 @@ authors:
 date: "2022-08-18"
 doi: ""
 featured: false
-links:
-- name: Custom Link
-  url: http://example.org
 projects:
 - high-dim-stats
 publication: ""
