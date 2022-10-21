@@ -1,54 +1,49 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests are high-dimensional statistics, statistical genetics, and data science education.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Statistics
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
-highlight_name: true
+    year: 2021
+  - course: MS in Statistics
+    institution: The University of Chicago
+    year: 2016
+  - course: BSc in Physics
+    institution: Fudan University, Shanghai, China
+    year: 2014
+email: "qzhao1@stanford.edu"
+first_name: Qian
+highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- High-dimensional statistical inference
+- Nonparametric density estimation
+- Statistical genetics 
+- Data science education
+last_name: Zhao
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+  url: https://med.stanford.edu/dbds.html 
+role: Postdoctoral Scholar in Biomedical Data Science 
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:qzhao1@stanford.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/qz00
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2287-4871 
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Qian Zhao 
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral scholar at [Stanford Biomedical Data Science](https://med.stanford.edu/dbds.html) advised by Professor [Chiara Sabatti](https://chiarasabatti.su.domains/), studying genetic underpinnings of severe mental disorders. My research aims to pinpoint important genetic variants, identify similar and different factors underlying several mental disorders, and construct polygenic risk scores that applies to a diverse population.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford University in 2021, advised by Professor [Emmanuel Candès](https://candes.su.domains/). My dissertation studied how to infer model coefficients in a high-dimensional generalized linear model. High-dimension refers to the situation when the number of variables is large, or even comparable to the number of observations. Standard statistical methods often exhibit surprising behavior in this setting, and my research develops statistical theory and methods to achieve valid inference in the high-dimensional setting. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am passionate about data science education, and I am particularly interested in exploring research-based methods, and evaluating their effectiveness in teaching data science. I have served as a technical mentor at [Stanford Data Science for Social Good summer program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program), where I led a team of 3--4 fellows to tackle a data science project with positive social impact over eight weeks. I have written as guide for data science for good mentors. I am a mentor and outcomes officer at [Stanford Future Advancers of Science and Technology](https://fast.stanford.edu/), where graduate students mentor high school students on science projects of their interest and present their work at state and local science fairs and an annual symposium at Stanford. 
+
+In my free time, I enjoy reading, hiking and baking. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
