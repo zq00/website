@@ -4,7 +4,7 @@ authors:
 - admin
 - Pragya Sur
 - Emmanuel Candès
-date: "2022-08"
+date: "2022-08-01"
 doi: "10.3150/21-BEJ1401"
 featured: false
 projects: [high-dim-stats]
