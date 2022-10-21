@@ -29,7 +29,7 @@ experience:
     location: California
     date_start: '2022-06-21'
     date_end: '2022-08-12'
-    description: I guided a team of student fellows to tackle data science projects with positive social impact in the course of eight weeks. In this project, we collaborated with journalists from California reporting project to identify behavioral health conditions in police encounters. [Final presentation slides](https://github.com/zq00/Presentations/blob/main/dssg/Big%20Local%202022.pdf).  
+    description: I guided a team of student fellows to tackle data science projects with positive social impact in the course of eight weeks. In this project, we collaborated with journalists from [the California reporting project](https://projects.scpr.org/california-reporting-project/) to identify behavioral health conditions in police encounters. [Final presentation slides](https://github.com/zq00/Presentations/blob/main/dssg/Big%20Local%202022.pdf).  
     
   - title: Technical Mentor
     company: Stanford Data Science for Social Good
