@@ -6,17 +6,18 @@ authors:
 date: "2022-10-21"
 doi: ""
 featured: false
-projects:
-- hist
+projects: [education]
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2022-10-21"
 
-title: Growing by mentoring --- A guide for Data Science for Social Good mentors
+
+title: "Growing by mentoring --- A guide for Data Science for Social Good mentors"
+url_pdf:  
 ---
 
-{{< icon name="download" pack="fas" >}} Download the{{< staticref "paper/DSSGMentorGuide.pdf" "newtab" >}}guide{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  {{< staticref "paper/DSSGMentorGuide.pdf" "newtab" >}}Click here to download the guide{{< /staticref >}}.
 
 
