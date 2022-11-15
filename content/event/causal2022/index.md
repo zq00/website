@@ -20,7 +20,7 @@ image:
 location: Koret-Taube Conference Center, SIPER Building 
 tags: []
 title: Selecting genetic variants using knockoffs under collider bias
-url_slides: https://github.com/zq00/Presentations/blob/main/Causal2022/Selecting%20Genetic%20Variants%20Using%20Knockoff%20Under%20Biased%20Sampling.pdf 
----
+url_slides: https://github.com/zq00/Presentations/tree/main/Causal2022
+--- 
 
 
