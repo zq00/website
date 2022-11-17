@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Qian Zhao</title>
+    <link>https://qianzhao14.netlify.app/publication-type/3/</link>
+      <atom:link href="https://qianzhao14.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qianzhao14.netlify.app/media/icon_hu1f142569971e06d54a9bc61233d8d5d9_15910_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://qianzhao14.netlify.app/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Beta-trees --- Multivariate histograms with confidence statements</title>
+      <link>https://qianzhao14.netlify.app/publication/betatrees/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/betatrees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growing by mentoring --- A guide for Data Science for Social Good mentors</title>
+      <link>https://qianzhao14.netlify.app/publication/mentorguide/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/mentorguide/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  
+
+&lt;a href=&#34;https://qianzhao14.netlify.app/paper/DSSGMentorGuide.pdf&#34; target=&#34;_blank&#34;&gt;Click here to download the guide&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Adaptively Resized Parametric Bootstrap for Inference in High-dimensional Generalized Linear Models</title>
+      <link>https://qianzhao14.netlify.app/publication/glmboot/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/glmboot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

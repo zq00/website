@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | Qian Zhao</title>
+    <link>https://qianzhao14.netlify.app/event/</link>
+      <atom:link href="https://qianzhao14.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Nov 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qianzhao14.netlify.app/media/icon_hu1f142569971e06d54a9bc61233d8d5d9_15910_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations</title>
+      <link>https://qianzhao14.netlify.app/event/</link>
+    </image>
+    
+    <item>
+      <title>Selecting genetic variants using knockoffs under collider bias</title>
+      <link>https://qianzhao14.netlify.app/talk/selecting-genetic-variants-using-knockoffs-under-collider-bias/</link>
+      <pubDate>Sun, 13 Nov 2022 10:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/talk/selecting-genetic-variants-using-knockoffs-under-collider-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing a reproducible manuscript in R</title>
+      <link>https://qianzhao14.netlify.app/talk/writing-a-reproducible-manuscript-in-r/</link>
+      <pubDate>Thu, 13 Oct 2022 14:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/talk/writing-a-reproducible-manuscript-in-r/</guid>
+      <description>&lt;p&gt;This presentation is inspired by Shilaan Alzahawi&amp;rsquo;s talk &lt;a href=&#34;https://shilaan.rbind.io/talks/reporting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible reporting with R Markdown&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Platelet Blood Bag Demand to reduce Inventory Wastage at the Stanford Blood Center</title>
+      <link>https://qianzhao14.netlify.app/talk/forecasting-platelet-blood-bag-demand-to-reduce-inventory-wastage-at-the-stanford-blood-center/</link>
+      <pubDate>Mon, 27 Jan 2020 08:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/talk/forecasting-platelet-blood-bag-demand-to-reduce-inventory-wastage-at-the-stanford-blood-center/</guid>
+      <description>&lt;p&gt;This talk is about our project at &lt;a href=&#34;https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2019-data-science-social-good&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford Data Science for Social Good program, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

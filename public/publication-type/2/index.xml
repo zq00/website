@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Qian Zhao</title>
+    <link>https://qianzhao14.netlify.app/publication-type/2/</link>
+      <atom:link href="https://qianzhao14.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qianzhao14.netlify.app/media/icon_hu1f142569971e06d54a9bc61233d8d5d9_15910_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://qianzhao14.netlify.app/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Near-peer mentoring in data science --- two experiences at Stanford University</title>
+      <link>https://qianzhao14.netlify.app/publication/dsmentoring/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/dsmentoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The asymptotic distribution of the MLE in high-dimensional logistic models: Arbitrary covariance</title>
+      <link>https://qianzhao14.netlify.app/publication/logisticmle/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/logisticmle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Gene Ontology Analysis with Interactive Visualization</title>
+      <link>https://qianzhao14.netlify.app/publication/aegis/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/aegis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QFMatch: multidimensional flow and mass cytometry samples alignment</title>
+      <link>https://qianzhao14.netlify.app/publication/qfmatch/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://qianzhao14.netlify.app/publication/qfmatch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
