@@ -30,7 +30,7 @@ social:
   link: mailto:qzhao1@stanford.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/qz00
+  link: https://github.com/zq00
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2287-4871 
