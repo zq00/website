@@ -21,9 +21,9 @@ interests:
 - Data science education
 last_name: Zhao
 organizations:
-- name: Stanford University
-  url: https://med.stanford.edu/dbds.html 
-role: Postdoctoral Scholar in Biomedical Data Science 
+- name: University of Massachusetts Amherst
+  url: https://www.umass.edu/mathematics-statistics/ 
+role: Assistant Professor in Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,7 @@ I am an Assistant Professor in Statistics at [the University of Massachusetts, A
 
 I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford University in 2021, advised by Professor [Emmanuel Candès](https://candes.su.domains/). My dissertation studied how to infer model coefficients in a high-dimensional generalized linear model. High-dimension refers to the situation when the number of variables is large, or even comparable to the number of observations. Standard statistical methods often exhibit surprising behavior in this setting, and my research develops statistical theory and methods to achieve valid inference in the high-dimensional setting. 
 
-I am passionate about data science education, and I am particularly interested in exploring research-based methods, and evaluating their effectiveness in teaching data science. I have served as a technical mentor at [Stanford Data Science for Social Good summer program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program), where I led a team of 3--4 fellows to tackle a data science project with positive social impact over eight weeks. I have written a guide for data science for good mentors. I am a mentor and outcomes officer at [Stanford Future Advancers of Science and Technology](https://fast.stanford.edu/), where graduate students mentor high school students on science projects of their interest and present their work at state and local science fairs and an annual symposium at Stanford. 
+I am passionate about data science education, and I am particularly interested in exploring research-based methods, and evaluating their effectiveness in teaching data science. I have served as a technical mentor at [Stanford Data Science for Social Good summer program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program), where I led a team of 3--4 fellows to tackle a data science project with positive social impact over eight weeks. I have written a guide for data science for good mentors. 
 
 In my free time, I enjoy reading, hiking and baking. 
 
