@@ -14,9 +14,8 @@ publication: ""
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2025-08-26"
 
-title: Near-Peer Mentoring in Data Science: A Plot for Mutual Growth
+title: "Near-Peer Mentoring in Data Science: A Plot for Mutual Growth"
 
 url_pdf: https://arxiv.org/abs/2211.08637
 ---

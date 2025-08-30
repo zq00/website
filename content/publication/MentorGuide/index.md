@@ -15,7 +15,6 @@ publishDate: "2022-10-21"
 
 
 title: "Growing by mentoring --- A guide for Data Science for Social Good mentors"
-url_pdf:  
 ---
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "paper/DSSGMentorGuide.pdf" "newtab" >}}Click here to download the guide{{< /staticref >}}.
