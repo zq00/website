@@ -5,7 +5,7 @@ authors:
 - Chiara Sabatti
 - admin
 
-date: "2022-11-16"
+date: "2025-08-26"
 doi: ""
 featured: false
 projects:
@@ -14,9 +14,9 @@ publication: ""
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-11-15"
+publishDate: "2025-08-26"
 
-title: Near-peer mentoring in data science --- two experiences at Stanford University
+title: Near-Peer Mentoring in Data Science: A Plot for Mutual Growth
 
 url_pdf: https://arxiv.org/abs/2211.08637
 ---
