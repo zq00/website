@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Instructor
+    company: University of Massachusetts Amherst
+    company_url: https://www.umass.edu/mathematics-statistics/
+    location: Amherst, MA
+    date_start: '2024-01-28'
+    date_end:
+    description: >- 
+      I teach the following courses. 
+      
+        * *Fundamental concepts of statistics*, Spring 2024, Fall 2024, Fall 2025
+        * *Distribution-free methods in statistics*, Spring 2025
+    
   - title: Technical Mentor
     company: Stanford Data Science for Social Good
     company_url: https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2022-data-science-social-good
