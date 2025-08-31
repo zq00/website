@@ -42,8 +42,9 @@ I am an Assistant Professor in Statistics at [the University of Massachusetts Am
 
 I completed my PhD in [Statistics](https://statistics.stanford.edu/) at Stanford University in 2021, advised by Professor [Emmanuel Candès](https://candes.su.domains/). My dissertation studied how to infer model coefficients in a high-dimensional generalized linear model. High-dimension refers to the situation when the number of variables is large, or even comparable to the number of observations. Standard statistical methods often exhibit surprising behavior in this setting, and my research develops statistical theory and methods to achieve valid inference in the high-dimensional setting. 
 
-I am passionate about data science education, and I am particularly interested in exploring research-based methods, and evaluating their effectiveness in teaching data science. I have served as a technical mentor at [Stanford Data Science for Social Good summer program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program), where I led a team of 3--4 fellows to tackle a data science project with positive social impact over eight weeks. I have written a guide for data science for good mentors. 
+I am broadly interested in applying statistics and data science for positive social impacts. Currently, I am developing data-driven methods to estimate and address nutrition insecurity. You can find a recent presentation [here](https://github.com/zq00/Presentations/blob/main/JSM2025.pdf).
 
-In my free time, I enjoy reading, hiking and baking. 
+I am passionate about teaching and data science education, and I am particularly interested in exploring research-based methods, and evaluating their effectiveness in teaching data science. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/CV-Qian.pdf" "newtab" >}}CV{{< /staticref >}}.
