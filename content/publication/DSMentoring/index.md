@@ -6,11 +6,11 @@ authors:
 - admin
 
 date: "2025-08-26"
-doi: ""
+doi: "10.1080/00031305.2025.2550314"
 featured: false
 projects:
 - [DS-education]
-publication: ""
+publication: "American Statistician"
 publication_short: ""
 publication_types:
 - "2"
